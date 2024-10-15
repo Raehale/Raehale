@@ -57,24 +57,26 @@ I am a Web Developer turned Front End Developer <img src="https://media.giphy.co
 ---
 
 ### :fire: My Stats :
+<div align="center">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raehale&theme=dark&background=000000)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raehale&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## My Blog :
-  [My Personal Learning Journal](https://learning-journal-rh.netlify.app/index.html)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Raehale&theme=onedark&row=2&column=3)](https://github.com/Raehale/github-profile-trophy)
+</div>
 
 ---
 
-## My Badges :
+### ✍️ My Blog :
+  [My Personal Learning Journal](https://learning-journal-rh.netlify.app/index.html
+
+---
+
+### 🥇 My Badges :
 
   [![An image of @raehale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raehale)](https://holopin.io/@raehale)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <!--
 **Raehale/Raehale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
