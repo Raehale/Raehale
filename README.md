@@ -38,7 +38,7 @@ I am a Web Developer turned Front End Developer <img src="https://media.giphy.co
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My Tech Stack :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -62,7 +62,10 @@ I am a Web Developer turned Front End Developer <img src="https://media.giphy.co
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raehale&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![An image of @raehale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raehale)](https://holopin.io/@raehale)
+## My Blog
+  [My Personal Learning Journal](https://learning-journal-rh.netlify.app/index.html)
+
+  [![An image of @raehale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raehale)](https://holopin.io/@raehale)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
