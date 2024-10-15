@@ -57,6 +57,8 @@ I am a Web Developer turned Front End Developer <img src="https://media.giphy.co
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raehale&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![An image of @raehale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raehale)](https://holopin.io/@raehale)
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!--
