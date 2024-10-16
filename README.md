@@ -69,7 +69,7 @@ I am a Web Developer turned Front End Developer <img src="https://media.giphy.co
 ---
 
 ### ✍️ My Blog :
-  [My Personal Learning Journal](https://learning-journal-rh.netlify.app/index.html
+  [My Personal Learning Journal](https://learning-journal-rh.netlify.app/index.html)
 
 ---
 
