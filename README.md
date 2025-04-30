@@ -34,7 +34,7 @@ I am a Web Developer turned Front End Developer <img src="https://media.giphy.co
 - 🌱 I’m currently learning React
 - 📫 How to reach me: alyssarae98ha@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have four pet rats 🐀🐀🐀🐀!
+- ⚡ Fun fact: I have three pet rats 🐀🐀🐀!
 
 ---
 
