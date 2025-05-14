@@ -28,13 +28,13 @@
  
 ## 🖱️About Me :
 
-I am a Web Developer turned Front End Developer <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=790b7611trr48xr2yrw8c37zn440pv9qfk5svdc8rq32hdlc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> from the United States. I enjoy working on projects that really challenge me. I'm a lifelong learner always excited to add more to my personal knowledge base. I have been working in web development for 7 years, primarily using WordPress. I am currently enrolled in Scrimba Bootcamp to learn how to be a propper front end developer!
+I am a Web Developer turned Front End Developer <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=790b7611trr48xr2yrw8c37zn440pv9qfk5svdc8rq32hdlc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> from the United States. I enjoy working on projects that really challenge me. I'm a lifelong learner always excited to add more to my personal knowledge base. I have been working in web development for 7 years, primarily using WordPress. I finished the Scrimba Front End Career Path course and am hoping to move on to more full stack learning!
 
 - 🔭 I’m currently working on finishing the Scrimba bootcamp
-- 🌱 I’m currently learning React
-- 📫 How to reach me: alyssarae98ha@gmail.com
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me: <alyssarae98ha@gmail.com>
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have three pet rats 🐀🐀🐀!
+- ⚡ Fun fact: I have two pet rats 🐀🐀
 
 ---
 
