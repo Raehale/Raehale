@@ -28,7 +28,7 @@
  
 ## 🖱️About Me :
 
-I am a Web Developer turned Front End Developer <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=790b7611trr48xr2yrw8c37zn440pv9qfk5svdc8rq32hdlc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> from the United States. I enjoy working on projects that really challenge me. I'm a lifelong learner always excited to add more to my personal knowledge base. I have been working in web development for 7 years, primarily using WordPress. I finished the Scrimba Front End Career Path course and am hoping to move on to more full stack learning!
+I am a Web Developer turned Front End Developer <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=790b7611trr48xr2yrw8c37zn440pv9qfk5svdc8rq32hdlc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> from the United States. I enjoy working on projects that really challenge me. I'm a lifelong learner always excited to add more to my personal knowledge base. I have been working in web development since 2017, primarily using WordPress. I finished the Scrimba Front End Career Path course and am hoping to move on to more full stack learning!
 
 - 🔭 I’m currently working on finishing the Scrimba FullStack bootcamp
 - 🌱 I’m currently learning Vue
@@ -51,6 +51,7 @@ I am a Web Developer turned Front End Developer <img src="https://media.giphy.co
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Vue JS" alt="Vue JS" width="40" height="40"/>
 </div>
 
 ---
