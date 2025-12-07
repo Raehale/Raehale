@@ -51,7 +51,7 @@ I am a Web Developer turned Front End Developer <img src="https://media.giphy.co
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Vue JS" alt="Vue JS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue JS" alt="Vue JS" width="40" height="40"/>
 </div>
 
 ---
